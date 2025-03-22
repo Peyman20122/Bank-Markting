@@ -77,7 +77,7 @@ The project is implemented in a Jupyter Notebook and follows a structured approa
 
 
 ## 📧 Contact
-Developed by **Peiman Daei Rezaei**  
+Developed by **Peyman Daei Rezaei**  
 📩 Email: peimandaii2012@gmail.com  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/peymandaeirezaei/)
+🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/peymandaeirezaei/)
 
